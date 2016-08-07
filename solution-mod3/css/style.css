@@ -37,9 +37,8 @@
   margin-top: 0px;
   background-color: #E5E5EA;
   margin-bottom: 0px;
-
-
 }
+
 #menu-items a {
   color: #018fba;
   text-align: center;
@@ -53,10 +52,10 @@
   font-weight: bold;
 }
 
-.container .navbar-collapse {
+/*.container .navbar-collapse {
   margin-bottom: -10px;
   border-top: 0px;
-}
+}*/
 
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
