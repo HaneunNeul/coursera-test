@@ -29,11 +29,16 @@
 }
 
 #menu-collapse {
-  background-color: #E5E5EA
+  border-color: #E5E5EA;
+  
 }
 
 #menu-items {
-  margin-top: 10px;
+  margin-top: 0px;
+  background-color: #E5E5EA;
+  margin-bottom: 0px;
+
+
 }
 #menu-items a {
   color: #018fba;
@@ -46,6 +51,11 @@
 #menu-items a {
   font-size: 1em;
   font-weight: bold;
+}
+
+.container .navbar-collpase {
+  margin-bottom: -10px;
+  border-top: 0px;
 }
 
 
